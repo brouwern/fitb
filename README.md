@@ -11,5 +11,7 @@ A Colab Notebook demonstrating this workflow can be found [here](https://colab.r
 The pair of images below shows how this workflow can take a set of exam responses and reorganize them into another order for easier grading.
 
 
-![Results of FITB reorganinzation](https://github.com/brouwern/fitb/blob/main/FITB_results.png?raw=true))
+<div>
+<img src = https://github.com/brouwern/fitb/blob/main/FITB_results.png?raw=true width="500" />
+</div>
 
